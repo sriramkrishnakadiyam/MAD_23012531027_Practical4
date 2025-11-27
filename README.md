@@ -21,6 +21,9 @@ to ensure the alarm triggers accurately on modern Android versions.
 6. Material Design UI
 The layout uses MaterialCardView, MaterialButton, and ConstraintLayout for a clean interface.
 
+App Screenshots
+![image alt](https://github.com/sriramkrishnakadiyam/MAD_23012531027_Practical4/blob/6e6218a9ee30ca6cff752a5277dec8a0456f327f/Screenshot%202025-11-27%20142136.png)
+
 Core Concepts Demonstrated
 1. Service
 A background component (AlarmService)
