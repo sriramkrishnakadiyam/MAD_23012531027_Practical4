@@ -72,6 +72,4 @@ Activities
 
 BroadcastReceiver
 
-Service
 
-Includes permissions
